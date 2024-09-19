@@ -66,3 +66,5 @@ print(np.sqrt(mse))
 
 plt.scatter(y_val,y_pred)
 plt.show()
+plt.plot(y_val,y_pred)
+plt.show()
